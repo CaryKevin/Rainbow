@@ -7,3 +7,4 @@ blue
 red
 yellow
 orange
+gray
