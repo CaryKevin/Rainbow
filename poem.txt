@@ -5,6 +5,7 @@ purple
 green
 blue
 unicorn
+scarlet
 red
 yellow
 orange
