@@ -1,4 +1,4 @@
-Rainbow and unicorn
+Rainbow and unicorn and apple
 
 pink
 purple
@@ -9,3 +9,4 @@ red
 yellow
 orange
 gray
+apple
