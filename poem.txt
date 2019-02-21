@@ -5,6 +5,7 @@ purple
 green
 blue
 unicorn
+recycle
 scarlet
 red
 yellow
